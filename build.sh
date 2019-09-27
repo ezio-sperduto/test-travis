@@ -1,3 +1,3 @@
 #!/bin/sh
-cd Test-travis
+cd Test-trevis
 mvn clean compile assemply:single
